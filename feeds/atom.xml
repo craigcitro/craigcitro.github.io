@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Craig Citro</title><link href="/" rel="alternate"></link><link href="/feeds/atom.xml" rel="self"></link><id>/</id><updated>2016-01-09T00:00:00-08:00</updated><entry><title>New site</title><link href="/new-site.html" rel="alternate"></link><updated>2016-01-09T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:,2016-01-09:new-site.html</id><summary type="html">&lt;p&gt;I'm finally finding time to start straightening up my web presence, and step
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Craig Citro</title><link href="http://www.craigcitro.org/" rel="alternate"></link><link href="http://www.craigcitro.org/feeds/atom.xml" rel="self"></link><id>http://www.craigcitro.org/</id><updated>2016-01-09T00:00:00-08:00</updated><entry><title>New site</title><link href="http://www.craigcitro.org/new-site.html" rel="alternate"></link><updated>2016-01-09T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2016-01-09:new-site.html</id><summary type="html">&lt;p&gt;I'm finally finding time to start straightening up my web presence, and step
 one involves updating this site. In the process, I'm setting up a blog. This
 includes a few of the old posts from my blogspot blog, as well as one post I
 wrote a year ago but apparently never posted.&lt;/p&gt;
 &lt;p&gt;More to come -- but if there's anything you've asked me for a link to, ask
-again and I'll put it up here.&lt;/p&gt;</summary></entry><entry><title>Managing Bookmarks</title><link href="/managing-bookmarks.html" rel="alternate"></link><updated>2014-12-22T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:,2014-12-22:managing-bookmarks.html</id><summary type="html">&lt;p&gt;Like everyone, I often run into interesting content that I don't have time to
+again and I'll put it up here.&lt;/p&gt;</summary></entry><entry><title>Managing Bookmarks</title><link href="http://www.craigcitro.org/managing-bookmarks.html" rel="alternate"></link><updated>2014-12-22T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2014-12-22:managing-bookmarks.html</id><summary type="html">&lt;p&gt;Like everyone, I often run into interesting content that I don't have time to
 read then and there. Bookmarks to the rescue!&lt;/p&gt;
 &lt;p&gt;But then I end up with a
 mountain of bookmarks. After years of experimenting, I've finally come up with
@@ -28,13 +28,13 @@ that sitting, and start over.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;future work&lt;/h2&gt;
-&lt;p&gt;In a later post, I plan to apply this same technique to handling email.&lt;/p&gt;</summary></entry><entry><title>Math Jokes</title><link href="/math-jokes.html" rel="alternate"></link><updated>2009-12-04T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:,2009-12-04:math-jokes.html</id><summary type="html">&lt;p&gt;I saw these on &lt;a href="http://mathoverflow.net/questions/1083/do-good-math-jokes-exist"&gt;mathoverflow&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;In a later post, I plan to apply this same technique to handling email.&lt;/p&gt;</summary></entry><entry><title>Math Jokes</title><link href="http://www.craigcitro.org/math-jokes.html" rel="alternate"></link><updated>2009-12-04T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2009-12-04:math-jokes.html</id><summary type="html">&lt;p&gt;I saw these on &lt;a href="http://mathoverflow.net/questions/1083/do-good-math-jokes-exist"&gt;mathoverflow&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The primary reason Bourbaki stopped writing books was the realization that
 Lang was one single person.&lt;/li&gt;
 &lt;li&gt;A paper should be like a miniskirt: short enough to be interesting and long
 enough to cover the subject.&lt;/li&gt;
-&lt;/ul&gt;</summary></entry><entry><title>Great quote</title><link href="/great-quote.html" rel="alternate"></link><updated>2009-11-18T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:,2009-11-18:great-quote.html</id><summary type="html">&lt;p&gt;From Chris: "apple is like the really hot girl u didnt know was whack"&lt;/p&gt;</summary></entry><entry><title>Lockhart's Lament</title><link href="/lockharts-lament.html" rel="alternate"></link><updated>2009-06-28T00:00:00-07:00</updated><author><name>Craig Citro</name></author><id>tag:,2009-06-28:lockharts-lament.html</id><summary type="html">&lt;p&gt;I recently stumbled upon a link to
+&lt;/ul&gt;</summary></entry><entry><title>Great quote</title><link href="http://www.craigcitro.org/great-quote.html" rel="alternate"></link><updated>2009-11-18T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2009-11-18:great-quote.html</id><summary type="html">&lt;p&gt;From Chris: "apple is like the really hot girl u didnt know was whack"&lt;/p&gt;</summary></entry><entry><title>Lockhart's Lament</title><link href="http://www.craigcitro.org/lockharts-lament.html" rel="alternate"></link><updated>2009-06-28T00:00:00-07:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2009-06-28:lockharts-lament.html</id><summary type="html">&lt;p&gt;I recently stumbled upon a link to
 &lt;a href="http://www.maa.org/devlin/LockhartsLament.pdf"&gt;Lockhart's Lament&lt;/a&gt;. &lt;/p&gt;
 &lt;p&gt;You should stop and read this right away, if you haven't already. It's a
 fairly harsh and biting attack on the state of math education (and more
