@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Craig Citro</title><link href="/" rel="alternate"></link><link href="/feeds/atom.xml" rel="self"></link><id>/</id><updated>2016-01-09T00:00:00-08:00</updated><entry><title>New site</title><link href="/new-site.html" rel="alternate"></link><updated>2016-01-09T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:,2016-01-09:new-site.html</id><summary type="html">&lt;p&gt;I'm finally finding time to start straightening up my web presence, and step
+one involves updating this site. In the process, I'm setting up a blog. This
+includes a few of the old posts from my blogspot blog, as well as one post I
+wrote a year ago but apparently never posted.&lt;/p&gt;
+&lt;p&gt;More to come -- but if there's anything you've asked me for a link to, ask
+again and I'll put it up here.&lt;/p&gt;</summary></entry><entry><title>Managing Bookmarks</title><link href="/managing-bookmarks.html" rel="alternate"></link><updated>2014-12-22T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:,2014-12-22:managing-bookmarks.html</id><summary type="html">&lt;p&gt;Like everyone, I often run into interesting content that I don't have time to
+read then and there. Bookmarks to the rescue!&lt;/p&gt;
+&lt;p&gt;But then I end up with a
+mountain of bookmarks. After years of experimenting, I've finally come up with
+an effective system.&lt;/p&gt;
+&lt;h2&gt;The System&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Bookmark things in chrome (or your browser of choice) as you find them.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Roughly once a month, make a few folders to try and do some basic grouping.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;About once every 6 weeks, remember that you'd seen an interesting link on a
+specific topic, but you can't seem to find it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;At about three months, realize you've now bookmarked more content than you
+could read in a month. Declare bankruptcy, delete all links you can't read in
+that sitting, and start over.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;future work&lt;/h2&gt;
+&lt;p&gt;In a later post, I plan to apply this same technique to handling email.&lt;/p&gt;</summary></entry><entry><title>Math Jokes</title><link href="/math-jokes.html" rel="alternate"></link><updated>2009-12-04T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:,2009-12-04:math-jokes.html</id><summary type="html">&lt;p&gt;I saw these on &lt;a href="http://mathoverflow.net/questions/1083/do-good-math-jokes-exist"&gt;mathoverflow&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The primary reason Bourbaki stopped writing books was the realization that
+Lang was one single person.&lt;/li&gt;
+&lt;li&gt;A paper should be like a miniskirt: short enough to be interesting and long
+enough to cover the subject.&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Great quote</title><link href="/great-quote.html" rel="alternate"></link><updated>2009-11-18T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:,2009-11-18:great-quote.html</id><summary type="html">&lt;p&gt;From Chris: "apple is like the really hot girl u didnt know was whack"&lt;/p&gt;</summary></entry><entry><title>Lockhart's Lament</title><link href="/lockharts-lament.html" rel="alternate"></link><updated>2009-06-28T00:00:00-07:00</updated><author><name>Craig Citro</name></author><id>tag:,2009-06-28:lockharts-lament.html</id><summary type="html">&lt;p&gt;I recently stumbled upon a link to
+&lt;a href="http://www.maa.org/devlin/LockhartsLament.pdf"&gt;Lockhart's Lament&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;You should stop and read this right away, if you haven't already. It's a
+fairly harsh and biting attack on the state of math education (and more
+specifically K-12 math education) in the US. His main point is that the focus
+of the K-12 math curriculum has essentially nothing to do with the actual
+practice of mathematics, which is true. It's not perfect, but there's almost
+nothing I actually disagree with in it -- its only real sins are sins of
+omission. Here are my thoughts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Lockhart does an excellent job of talking about the problem, but says
+nothing about ways to solve the problem. I strongly agree that the state of
+education in general, and math education in particular, is fairly bad in the
+US. However, just saying that over and over isn't going to fix anything. I'd
+be curious to hear what he thinks about ways to fix the system, other than the
+obvious -- just overhaul the whole thing. I'll save most of my ranting for
+another post, save for this: I don't see how we're going to fix the system
+until we find a way to make being a teacher -- especially a teacher at a
+public school -- an actually desirable job.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I think Lockhart also gives a bit more credit to teaching in other areas
+than they deserve. He speaks as though the curriculum in english or the
+sciences is great -- clearly he didn't have my middle and high school
+experience. :) That said, it does fit with his primary theme -- I think there
+was much more similarity between my high school english classes and the job of
+a literary critic than between my high school math classes and the job of a
+mathematician, especially a research mathematician in pure math.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I think that Lockhart also underplays the value of some amount of rote
+exercises, especially for younger math students. However, I think the point
+that he's trying to make is that rote exercises without any motivation
+whatsoever are pointless -- and I agree.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lockhart seems to take the point of view that the reason for doing math is
+to do research in pure math. He doesn't seem to take much time to talk about
+math as a tool for physics or engineering, which is just silly. Of course, his
+attacks still apply -- my experience is that students of engineering take
+calculus classes because they're required, but don't actually understand why
+they're doing it until later on. Sadly, because they had no idea what they
+were doing or why, they also generally don't remember any of the techniques
+they learned, either.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I want to say again, though, that I loved this article. Even if there were
+things that were missing, there was so much good in it. Of course, I don't
+seem to be the only one ... here's a link to
+&lt;a href="http://scottaaronson.com/blog/?p=410"&gt;the blog post&lt;/a&gt; that first pointed me to
+the article, and another link with info
+&lt;a href="http://www.maa.org/devlin/devlin_03_08.html"&gt;about Lockhart himself&lt;/a&gt;.&lt;/p&gt;</summary></entry></feed>
