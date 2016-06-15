@@ -1,5 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Craig Citro</title><link href="http://www.craigcitro.org/" rel="alternate"></link><link href="http://www.craigcitro.org/feeds/craig-citro.atom.xml" rel="self"></link><id>http://www.craigcitro.org/</id><updated>2016-01-09T00:00:00-08:00</updated><entry><title>New site</title><link href="http://www.craigcitro.org/new-site.html" rel="alternate"></link><updated>2016-01-09T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2016-01-09:new-site.html</id><summary type="html">&lt;p&gt;I'm finally finding time to start straightening up my web presence, and step
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Craig Citro</title><link href="http://www.craigcitro.org/" rel="alternate"></link><link href="http://www.craigcitro.org/feeds/craig-citro.atom.xml" rel="self"></link><id>http://www.craigcitro.org/</id><updated>2016-06-14T00:00:00-07:00</updated><entry><title>LA food recs</title><link href="http://www.craigcitro.org/la-food-recs.html" rel="alternate"></link><updated>2016-06-14T00:00:00-07:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2016-06-14:la-food-recs.html</id><summary type="html">&lt;p&gt;It's been forever since I lived in LA, but I still long for some of the food.
+One of my friends asked for some food recs, so I'm recording them here:&lt;/p&gt;
+&lt;h2&gt;Amazing eats&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Amandine&lt;/strong&gt;: go and get the french toast, and then get anything else that
+sounds good. It's my absolute favorite french toast in the known universe,
+which is a strong compliment. Every pastry I had was good; I remember the
+coffee being good, but that was before I lived in Seattle, so that's harder to
+say.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Bay Cities Italian Deli&lt;/strong&gt;: it's a big deli that also makes sandwiches; you
+can go in and take a number, or just order online like a sane person. Lines
+that can sometimes put paseo to shame. the sandwiches are incredible. (I
+always got the godmother, I think?)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Abbot Kinney Pizza&lt;/strong&gt;: they do a bunch of awesome pizzas with a bagel crust,
+and it's fantastic. If you can, go to the one in venice (they usually have
+more pizza options on hand).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;India Sweets &amp;amp; Spices&lt;/strong&gt;: another not-fancy-but-delicious place, down in
+Culver City; it's also primarily a grocery store that happens to sell amazing
+food. (vegetarian)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Pita Pockets&lt;/strong&gt;: this one is up in the Valley, so if you're not already
+headed that way, may be further than you want to go. But holy cow, the laffa
+wraps are out of this world. They also have amazing hummus, and I drool
+thinking about their falafel laffa wrap with hummus.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;amp;O Trattoria&lt;/strong&gt;: this is a fantastic place to go if you're looking for a
+MASSIVE amount of fresh garlic rolls and pasta. It's tasty, but maybe not the
+best pasta in the universe, with self-service wine at the table. If you're
+going with a bunch of friends, this one's hard to beat, and you can take a
+nice walk on the beach in Venice after.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Desserts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Pinkberry&lt;/strong&gt;: this is the place that made tart yogurt famous; I don't know
+if it's still up to its former glory, but it was reeeeeally good when it first
+came along.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Scoops&lt;/strong&gt;: this used to only be waaaaaay over on the east side of LA, but
+is now apparently on the westside. One of the most amazing ice cream shops
+I've been to.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Susie Cakes&lt;/strong&gt;: this was the first place I had a really, really amazing
+cupcake. Some of their cupcakes and cookies are out of this world, and others
+are just so-so. So take that one with a grain of ... sugar?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>New site</title><link href="http://www.craigcitro.org/new-site.html" rel="alternate"></link><updated>2016-01-09T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2016-01-09:new-site.html</id><summary type="html">&lt;p&gt;I'm finally finding time to start straightening up my web presence, and step
 one involves updating this site. In the process, I'm setting up a blog. This
 includes a few of the old posts from my blogspot blog, as well as one post I
 wrote a year ago but apparently never posted.&lt;/p&gt;
