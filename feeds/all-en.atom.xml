@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Craig Citro</title><link href="http://www.craigcitro.org/" rel="alternate"></link><link href="http://www.craigcitro.org/feeds/all-en.atom.xml" rel="self"></link><id>http://www.craigcitro.org/</id><updated>2016-08-05T00:00:00-07:00</updated><entry><title>Get that job at Google! (mathematician edition)</title><link href="http://www.craigcitro.org/get-that-job-at-google-mathematician-edition.html" rel="alternate"></link><updated>2016-08-05T00:00:00-07:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2016-08-05:get-that-job-at-google-mathematician-edition.html</id><summary type="html">&lt;p&gt;People often ask me for advice about how to get a job at Google, especially
+<feed xmlns="https://www.w3.org/2005/Atom"><title>Craig Citro</title><link href="https://www.craigcitro.org/" rel="alternate"></link><link href="https://www.craigcitro.org/feeds/all-en.atom.xml" rel="self"></link><id>https://www.craigcitro.org/</id><updated>2016-08-05T00:00:00-07:00</updated><entry><title>Get that job at Google! (mathematician edition)</title><link href="https://www.craigcitro.org/get-that-job-at-google-mathematician-edition.html" rel="alternate"></link><updated>2016-08-05T00:00:00-07:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2016-08-05:get-that-job-at-google-mathematician-edition.html</id><summary type="html">&lt;p&gt;People often ask me for advice about how to get a job at Google, especially
 research mathematicians. This post is basically the common parts from my
 emails on the topic, for better discoverability.&lt;/p&gt;
 &lt;p&gt;This often breaks down into one of two questions:&lt;/p&gt;
@@ -48,13 +48,13 @@ apply to at least 3 good companies, and have a fallback or two.&lt;/p&gt;
 with Java." Some people will tell you it's a boring language, but it's used
 lots of places, and as they say, "no one ever got fired for choosing Java."
 Plus, Java is a lot
-&lt;a href="http://blog.paralleluniverse.co/2014/05/01/modern-java/"&gt;snazzier&lt;/a&gt; than it
+&lt;a href="https://blog.paralleluniverse.co/2014/05/01/modern-java/"&gt;snazzier&lt;/a&gt; than it
 used to be.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;Google interview mechanics&lt;/h2&gt;
 &lt;p&gt;So there's lots of good advice out there -- I think
-&lt;a href="http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html"&gt;Steve Yegge's post&lt;/a&gt;
+&lt;a href="https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html"&gt;Steve Yegge's post&lt;/a&gt;
 (from which I stole the title here) gives a great overview. I'll give a few
 pieces of advice that he doesn't highlight:&lt;/p&gt;
 &lt;ol&gt;
@@ -81,7 +81,7 @@ you in the habit of writing code at a board. It's not something many people do
 often, especially in these days of omnipresent computing ... I've written more
 code via cellphone than whiteboard in the last year, I think.&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</summary></entry><entry><title>LA food recs</title><link href="http://www.craigcitro.org/la-food-recs.html" rel="alternate"></link><updated>2016-06-14T00:00:00-07:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2016-06-14:la-food-recs.html</id><summary type="html">&lt;p&gt;It's been forever since I lived in LA, but I still long for some of the food.
+&lt;/ol&gt;</summary></entry><entry><title>LA food recs</title><link href="https://www.craigcitro.org/la-food-recs.html" rel="alternate"></link><updated>2016-06-14T00:00:00-07:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2016-06-14:la-food-recs.html</id><summary type="html">&lt;p&gt;It's been forever since I lived in LA, but I still long for some of the food.
 One of my friends asked for some food recs, so I'm recording them here:&lt;/p&gt;
 &lt;h2&gt;Amazing eats&lt;/h2&gt;
 &lt;ul&gt;
@@ -139,12 +139,12 @@ I've been to.&lt;/p&gt;
 cupcake. Some of their cupcakes and cookies are out of this world, and others
 are just so-so. So take that one with a grain of ... sugar?&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</summary></entry><entry><title>New site</title><link href="http://www.craigcitro.org/new-site.html" rel="alternate"></link><updated>2016-01-09T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2016-01-09:new-site.html</id><summary type="html">&lt;p&gt;I'm finally finding time to start straightening up my web presence, and step
+&lt;/ul&gt;</summary></entry><entry><title>New site</title><link href="https://www.craigcitro.org/new-site.html" rel="alternate"></link><updated>2016-01-09T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2016-01-09:new-site.html</id><summary type="html">&lt;p&gt;I'm finally finding time to start straightening up my web presence, and step
 one involves updating this site. In the process, I'm setting up a blog. This
 includes a few of the old posts from my blogspot blog, as well as one post I
 wrote a year ago but apparently never posted.&lt;/p&gt;
 &lt;p&gt;More to come -- but if there's anything you've asked me for a link to, ask
-again and I'll put it up here.&lt;/p&gt;</summary></entry><entry><title>Managing Bookmarks</title><link href="http://www.craigcitro.org/managing-bookmarks.html" rel="alternate"></link><updated>2014-12-22T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2014-12-22:managing-bookmarks.html</id><summary type="html">&lt;p&gt;Like everyone, I often run into interesting content that I don't have time to
+again and I'll put it up here.&lt;/p&gt;</summary></entry><entry><title>Managing Bookmarks</title><link href="https://www.craigcitro.org/managing-bookmarks.html" rel="alternate"></link><updated>2014-12-22T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2014-12-22:managing-bookmarks.html</id><summary type="html">&lt;p&gt;Like everyone, I often run into interesting content that I don't have time to
 read then and there. Bookmarks to the rescue!&lt;/p&gt;
 &lt;p&gt;But then I end up with a
 mountain of bookmarks. After years of experimenting, I've finally come up with
@@ -168,14 +168,14 @@ that sitting, and start over.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2&gt;future work&lt;/h2&gt;
-&lt;p&gt;In a later post, I plan to apply this same technique to handling email.&lt;/p&gt;</summary></entry><entry><title>Math Jokes</title><link href="http://www.craigcitro.org/math-jokes.html" rel="alternate"></link><updated>2009-12-04T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2009-12-04:math-jokes.html</id><summary type="html">&lt;p&gt;I saw these on &lt;a href="http://mathoverflow.net/questions/1083/do-good-math-jokes-exist"&gt;mathoverflow&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;In a later post, I plan to apply this same technique to handling email.&lt;/p&gt;</summary></entry><entry><title>Math Jokes</title><link href="https://www.craigcitro.org/math-jokes.html" rel="alternate"></link><updated>2009-12-04T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2009-12-04:math-jokes.html</id><summary type="html">&lt;p&gt;I saw these on &lt;a href="https://mathoverflow.net/questions/1083/do-good-math-jokes-exist"&gt;mathoverflow&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The primary reason Bourbaki stopped writing books was the realization that
 Lang was one single person.&lt;/li&gt;
 &lt;li&gt;A paper should be like a miniskirt: short enough to be interesting and long
 enough to cover the subject.&lt;/li&gt;
-&lt;/ul&gt;</summary></entry><entry><title>Great quote</title><link href="http://www.craigcitro.org/great-quote.html" rel="alternate"></link><updated>2009-11-18T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2009-11-18:great-quote.html</id><summary type="html">&lt;p&gt;From Chris: "apple is like the really hot girl u didnt know was whack"&lt;/p&gt;</summary></entry><entry><title>Lockhart's Lament</title><link href="http://www.craigcitro.org/lockharts-lament.html" rel="alternate"></link><updated>2009-06-28T00:00:00-07:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2009-06-28:lockharts-lament.html</id><summary type="html">&lt;p&gt;I recently stumbled upon a link to
-&lt;a href="http://www.maa.org/devlin/LockhartsLament.pdf"&gt;Lockhart's Lament&lt;/a&gt;. &lt;/p&gt;
+&lt;/ul&gt;</summary></entry><entry><title>Great quote</title><link href="https://www.craigcitro.org/great-quote.html" rel="alternate"></link><updated>2009-11-18T00:00:00-08:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2009-11-18:great-quote.html</id><summary type="html">&lt;p&gt;From Chris: "apple is like the really hot girl u didnt know was whack"&lt;/p&gt;</summary></entry><entry><title>Lockhart's Lament</title><link href="https://www.craigcitro.org/lockharts-lament.html" rel="alternate"></link><updated>2009-06-28T00:00:00-07:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2009-06-28:lockharts-lament.html</id><summary type="html">&lt;p&gt;I recently stumbled upon a link to
+&lt;a href="https://www.maa.org/devlin/LockhartsLament.pdf"&gt;Lockhart's Lament&lt;/a&gt;. &lt;/p&gt;
 &lt;p&gt;You should stop and read this right away, if you haven't already. It's a
 fairly harsh and biting attack on the state of math education (and more
 specifically K-12 math education) in the US. His main point is that the focus
@@ -224,9 +224,9 @@ they learned, either.&lt;/p&gt;
 &lt;p&gt;I want to say again, though, that I loved this article. Even if there were
 things that were missing, there was so much good in it. Of course, I don't
 seem to be the only one ... here's a link to
-&lt;a href="http://scottaaronson.com/blog/?p=410"&gt;the blog post&lt;/a&gt; that first pointed me to
+&lt;a href="https://scottaaronson.com/blog/?p=410"&gt;the blog post&lt;/a&gt; that first pointed me to
 the article, and another link with info
-&lt;a href="http://www.maa.org/devlin/devlin_03_08.html"&gt;about Lockhart himself&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>Cambridge food recs</title><link href="http://www.craigcitro.org/cambridge-food-recs.html" rel="alternate"></link><updated>2008-09-05T00:00:00-07:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2008-09-05:cambridge-food-recs.html</id><summary type="html">&lt;p&gt;Cambridge, MA has one of the best concentrations of great eateries of any
+&lt;a href="https://www.maa.org/devlin/devlin_03_08.html"&gt;about Lockhart himself&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>Cambridge food recs</title><link href="https://www.craigcitro.org/cambridge-food-recs.html" rel="alternate"></link><updated>2008-09-05T00:00:00-07:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2008-09-05:cambridge-food-recs.html</id><summary type="html">&lt;p&gt;Cambridge, MA has one of the best concentrations of great eateries of any
 place I've ever lived; here's the list of my favorites, dated from the last
 time I sent it along to someone. (I know at least Herrell's is gone, which is
 a crime against humanity.)&lt;/p&gt;

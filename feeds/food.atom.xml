@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Craig Citro</title><link href="http://www.craigcitro.org/" rel="alternate"></link><link href="http://www.craigcitro.org/feeds/food.atom.xml" rel="self"></link><id>http://www.craigcitro.org/</id><updated>2016-06-14T00:00:00-07:00</updated><entry><title>LA food recs</title><link href="http://www.craigcitro.org/la-food-recs.html" rel="alternate"></link><updated>2016-06-14T00:00:00-07:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2016-06-14:la-food-recs.html</id><summary type="html">&lt;p&gt;It's been forever since I lived in LA, but I still long for some of the food.
+<feed xmlns="https://www.w3.org/2005/Atom"><title>Craig Citro</title><link href="https://www.craigcitro.org/" rel="alternate"></link><link href="https://www.craigcitro.org/feeds/food.atom.xml" rel="self"></link><id>https://www.craigcitro.org/</id><updated>2016-06-14T00:00:00-07:00</updated><entry><title>LA food recs</title><link href="https://www.craigcitro.org/la-food-recs.html" rel="alternate"></link><updated>2016-06-14T00:00:00-07:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2016-06-14:la-food-recs.html</id><summary type="html">&lt;p&gt;It's been forever since I lived in LA, but I still long for some of the food.
 One of my friends asked for some food recs, so I'm recording them here:&lt;/p&gt;
 &lt;h2&gt;Amazing eats&lt;/h2&gt;
 &lt;ul&gt;
@@ -57,7 +57,7 @@ I've been to.&lt;/p&gt;
 cupcake. Some of their cupcakes and cookies are out of this world, and others
 are just so-so. So take that one with a grain of ... sugar?&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</summary></entry><entry><title>Cambridge food recs</title><link href="http://www.craigcitro.org/cambridge-food-recs.html" rel="alternate"></link><updated>2008-09-05T00:00:00-07:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2008-09-05:cambridge-food-recs.html</id><summary type="html">&lt;p&gt;Cambridge, MA has one of the best concentrations of great eateries of any
+&lt;/ul&gt;</summary></entry><entry><title>Cambridge food recs</title><link href="https://www.craigcitro.org/cambridge-food-recs.html" rel="alternate"></link><updated>2008-09-05T00:00:00-07:00</updated><author><name>Craig Citro</name></author><id>tag:www.craigcitro.org,2008-09-05:cambridge-food-recs.html</id><summary type="html">&lt;p&gt;Cambridge, MA has one of the best concentrations of great eateries of any
 place I've ever lived; here's the list of my favorites, dated from the last
 time I sent it along to someone. (I know at least Herrell's is gone, which is
 a crime against humanity.)&lt;/p&gt;
