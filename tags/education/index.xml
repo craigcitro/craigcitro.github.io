@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>education on Craig Citro</title>
+    <link>https://craigcitro.org/tags/education/</link>
+    <description>Recent content in education on Craig Citro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020 Craig Citro</copyright>
+    <lastBuildDate>Sun, 28 Jun 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://craigcitro.org/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lockhart&#39;s Lament</title>
+      <link>https://craigcitro.org/posts/2009-06-28-lockharts-lament/</link>
+      <pubDate>Sun, 28 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigcitro.org/posts/2009-06-28-lockharts-lament/</guid>
+      <description>I recently stumbled upon a link to Lockhart&#39;s Lament.
+You should stop and read this right away, if you haven&#39;t already. It&#39;s a fairly harsh and biting attack on the state of math education (and more specifically K-12 math education) in the US. His main point is that the focus of the K-12 math curriculum has essentially nothing to do with the actual practice of mathematics, which is true. It&#39;s not perfect, but there&#39;s almost nothing I actually disagree with in it &amp;ndash; its only real sins are sins of omission.</description>
+    </item>
+    
+  </channel>
+</rss>

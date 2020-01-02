@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>google on Craig Citro</title>
+    <link>https://craigcitro.org/tags/google/</link>
+    <description>Recent content in google on Craig Citro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2020 Craig Citro</copyright>
+    <lastBuildDate>Fri, 05 Aug 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://craigcitro.org/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Get that job at Google! (mathematician edition)</title>
+      <link>https://craigcitro.org/posts/2016-08-05-software-jobs/</link>
+      <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigcitro.org/posts/2016-08-05-software-jobs/</guid>
+      <description>People often ask me for advice about how to get a job at Google, especially research mathematicians. This post is basically the common parts from my emails on the topic, for better discoverability.
+This often breaks down into one of two questions:
+  Would I be happy working as a software engineer at (a place like) Google?
+  What should I do to get ready for the interview?</description>
+    </item>
+    
+  </channel>
+</rss>
