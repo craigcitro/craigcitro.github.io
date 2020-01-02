@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GTD on Craig Citro</title>
-    <link>www.craigcitro.org/tags/gtd/</link>
+    <link>https://www.craigcitro.org/tags/gtd/</link>
     <description>Recent content in GTD on Craig Citro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Craig Citro</copyright>
     <lastBuildDate>Mon, 22 Dec 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="www.craigcitro.org/tags/gtd/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.craigcitro.org/tags/gtd/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Managing Bookmarks</title>
-      <link>www.craigcitro.org/posts/2014-12-22-managing-bookmarks/</link>
+      <link>https://www.craigcitro.org/posts/2014-12-22-managing-bookmarks/</link>
       <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>www.craigcitro.org/posts/2014-12-22-managing-bookmarks/</guid>
+      <guid>https://www.craigcitro.org/posts/2014-12-22-managing-bookmarks/</guid>
       <description>Like everyone, I often run into interesting content that I don&#39;t have time to read then and there. Bookmarks to the rescue!
 But then I end up with a mountain of bookmarks. After years of experimenting, I&#39;ve finally come up with an effective system.
 The System   Bookmark things in chrome (or your browser of choice) as you find them.

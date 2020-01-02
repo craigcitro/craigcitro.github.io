@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Craig Citro</title>
-    <link>www.craigcitro.org/tags/</link>
+    <link>https://www.craigcitro.org/tags/</link>
     <description>Recent content in Tags on Craig Citro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Craig Citro</copyright>
     <lastBuildDate>Fri, 05 Aug 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="www.craigcitro.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.craigcitro.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>google</title>
-      <link>www.craigcitro.org/tags/google/</link>
+      <link>https://www.craigcitro.org/tags/google/</link>
       <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>www.craigcitro.org/tags/google/</guid>
+      <guid>https://www.craigcitro.org/tags/google/</guid>
       <description></description>
     </item>
     
     <item>
       <title>math</title>
-      <link>www.craigcitro.org/tags/math/</link>
+      <link>https://www.craigcitro.org/tags/math/</link>
       <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>www.craigcitro.org/tags/math/</guid>
+      <guid>https://www.craigcitro.org/tags/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>food</title>
-      <link>www.craigcitro.org/tags/food/</link>
+      <link>https://www.craigcitro.org/tags/food/</link>
       <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>www.craigcitro.org/tags/food/</guid>
+      <guid>https://www.craigcitro.org/tags/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GTD</title>
-      <link>www.craigcitro.org/tags/gtd/</link>
+      <link>https://www.craigcitro.org/tags/gtd/</link>
       <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>www.craigcitro.org/tags/gtd/</guid>
+      <guid>https://www.craigcitro.org/tags/gtd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>silly</title>
-      <link>www.craigcitro.org/tags/silly/</link>
+      <link>https://www.craigcitro.org/tags/silly/</link>
       <pubDate>Fri, 04 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>www.craigcitro.org/tags/silly/</guid>
+      <guid>https://www.craigcitro.org/tags/silly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>quotes</title>
-      <link>www.craigcitro.org/tags/quotes/</link>
+      <link>https://www.craigcitro.org/tags/quotes/</link>
       <pubDate>Wed, 18 Nov 2009 00:00:00 +0000</pubDate>
       
-      <guid>www.craigcitro.org/tags/quotes/</guid>
+      <guid>https://www.craigcitro.org/tags/quotes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>education</title>
-      <link>www.craigcitro.org/tags/education/</link>
+      <link>https://www.craigcitro.org/tags/education/</link>
       <pubDate>Sun, 28 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>www.craigcitro.org/tags/education/</guid>
+      <guid>https://www.craigcitro.org/tags/education/</guid>
       <description></description>
     </item>
     
