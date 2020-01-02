@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>math on Craig Citro</title>
-    <link>https://craigcitro.org/tags/math/</link>
+    <link>www.craigcitro.org/tags/math/</link>
     <description>Recent content in math on Craig Citro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Craig Citro</copyright>
     <lastBuildDate>Fri, 05 Aug 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://craigcitro.org/tags/math/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.craigcitro.org/tags/math/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Get that job at Google! (mathematician edition)</title>
-      <link>https://craigcitro.org/posts/2016-08-05-software-jobs/</link>
+      <link>www.craigcitro.org/posts/2016-08-05-software-jobs/</link>
       <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://craigcitro.org/posts/2016-08-05-software-jobs/</guid>
+      <guid>www.craigcitro.org/posts/2016-08-05-software-jobs/</guid>
       <description>People often ask me for advice about how to get a job at Google, especially research mathematicians. This post is basically the common parts from my emails on the topic, for better discoverability.
 This often breaks down into one of two questions:
   Would I be happy working as a software engineer at (a place like) Google?
@@ -26,20 +26,20 @@ This often breaks down into one of two questions:
     
     <item>
       <title>Math Jokes</title>
-      <link>https://craigcitro.org/posts/2009-12-04-math-jokes/</link>
+      <link>www.craigcitro.org/posts/2009-12-04-math-jokes/</link>
       <pubDate>Fri, 04 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://craigcitro.org/posts/2009-12-04-math-jokes/</guid>
+      <guid>www.craigcitro.org/posts/2009-12-04-math-jokes/</guid>
       <description>I saw these on mathoverflow:
  The primary reason Bourbaki stopped writing books was the realization that Lang was one single person. A paper should be like a miniskirt: short enough to be interesting and long enough to cover the subject.  </description>
     </item>
     
     <item>
       <title>Lockhart&#39;s Lament</title>
-      <link>https://craigcitro.org/posts/2009-06-28-lockharts-lament/</link>
+      <link>www.craigcitro.org/posts/2009-06-28-lockharts-lament/</link>
       <pubDate>Sun, 28 Jun 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://craigcitro.org/posts/2009-06-28-lockharts-lament/</guid>
+      <guid>www.craigcitro.org/posts/2009-06-28-lockharts-lament/</guid>
       <description>I recently stumbled upon a link to Lockhart&#39;s Lament.
 You should stop and read this right away, if you haven&#39;t already. It&#39;s a fairly harsh and biting attack on the state of math education (and more specifically K-12 math education) in the US. His main point is that the focus of the K-12 math curriculum has essentially nothing to do with the actual practice of mathematics, which is true. It&#39;s not perfect, but there&#39;s almost nothing I actually disagree with in it &amp;ndash; its only real sins are sins of omission.</description>
     </item>
