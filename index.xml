@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>Book reviews</title>
+      <link>https://www.craigcitro.org/books/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.craigcitro.org/books/</guid>
+      <description>explanation of ratings
+2020 All the Pieces Fit, (Hilo 6) by Judd Winick. 5/5 I&amp;rsquo;m always nervous about the end of a series, but Hilo totally delivers. I won&amp;rsquo;t say anything to spoil the plot, but this one&amp;rsquo;s good, clean fun I&amp;rsquo;d recommend to kids of any age.
+2019 On the Come Up, by Angie Thomas. 4/5 Sweep: The Story of a Girl and Her Monster, by Jonathan Auxier. 4/5 Then Everything Went Wrong, (Hilo 5) by Judd Winick.</description>
+    </item>
+    
+    <item>
       <title>Get that job at Google! (mathematician edition)</title>
       <link>https://www.craigcitro.org/posts/2016-08-05-software-jobs/</link>
       <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
@@ -30,8 +41,8 @@ This often breaks down into one of two questions:
       <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.craigcitro.org/posts/2016-06-14-eating-in-la/</guid>
-      <description>It&#39;s been forever since I lived in LA, but I still long for some of the food. One of my friends asked for some food recs, so I&#39;m recording them here:
-Amazing eats   Amandine: go and get the french toast, and then get anything else that sounds good. It&#39;s my absolute favorite french toast in the known universe, which is a strong compliment. Every pastry I had was good; I remember the coffee being good, but that was before I lived in Seattle, so that&#39;s harder to say.</description>
+      <description>It&amp;rsquo;s been forever since I lived in LA, but I still long for some of the food. One of my friends asked for some food recs, so I&amp;rsquo;m recording them here:
+Amazing eats   Amandine: go and get the french toast, and then get anything else that sounds good. It&amp;rsquo;s my absolute favorite french toast in the known universe, which is a strong compliment. Every pastry I had was good; I remember the coffee being good, but that was before I lived in Seattle, so that&amp;rsquo;s harder to say.</description>
     </item>
     
     <item>
@@ -40,8 +51,8 @@ Amazing eats   Amandine: go and get the french toast, and then get anything else
       <pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.craigcitro.org/about/</guid>
-      <description>In my personal life, I&#39;m a husband and father of two. My wife runs a fantastic blog, and has written several books filled with awesome activities and (more importantly!) pictures of our wee ones. In my &amp;ldquo;copious spare time&amp;rdquo;, I like rock climbing, hiking, and biking.
-Work On the professional side, I&#39;m currently a Software Engineer at Google in Seattle. I&#39;m currently on the Colaboratory team, and I&#39;ve worked on several projects here, including BigQuery, apitools, and TensorFlow.</description>
+      <description>In my personal life, I&amp;rsquo;m a husband and father of two. My wife runs a fantastic blog, and has written several books filled with awesome activities and (more importantly!) pictures of our wee ones. In my &amp;ldquo;copious spare time&amp;rdquo;, I like rock climbing, hiking, and biking.
+Work On the professional side, I&amp;rsquo;m currently a Software Engineer at Google in Seattle. I&amp;rsquo;m currently on the Colaboratory team, and I&amp;rsquo;ve worked on several projects here, including BigQuery, apitools, and TensorFlow.</description>
     </item>
     
     <item>
@@ -50,8 +61,8 @@ Work On the professional side, I&#39;m currently a Software Engineer at Google i
       <pubDate>Sat, 09 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.craigcitro.org/posts/2016-01-09-blogging/</guid>
-      <description>I&#39;m finally finding time to start straightening up my web presence, and step one involves updating this site. In the process, I&#39;m setting up a blog. This includes a few of the old posts from my blogspot blog, as well as one post I wrote a year ago but apparently never posted.
-More to come &amp;ndash; but if there&#39;s anything you&#39;ve asked me for a link to, ask again and I&#39;ll put it up here.</description>
+      <description>I&amp;rsquo;m finally finding time to start straightening up my web presence, and step one involves updating this site. In the process, I&amp;rsquo;m setting up a blog. This includes a few of the old posts from my blogspot blog, as well as one post I wrote a year ago but apparently never posted.
+More to come &amp;ndash; but if there&amp;rsquo;s anything you&amp;rsquo;ve asked me for a link to, ask again and I&amp;rsquo;ll put it up here.</description>
     </item>
     
     <item>
@@ -60,8 +71,8 @@ More to come &amp;ndash; but if there&#39;s anything you&#39;ve asked me for a l
       <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://www.craigcitro.org/posts/2014-12-22-managing-bookmarks/</guid>
-      <description>Like everyone, I often run into interesting content that I don&#39;t have time to read then and there. Bookmarks to the rescue!
-But then I end up with a mountain of bookmarks. After years of experimenting, I&#39;ve finally come up with an effective system.
+      <description>Like everyone, I often run into interesting content that I don&amp;rsquo;t have time to read then and there. Bookmarks to the rescue!
+But then I end up with a mountain of bookmarks. After years of experimenting, I&amp;rsquo;ve finally come up with an effective system.
 The System   Bookmark things in chrome (or your browser of choice) as you find them.
   Roughly once a month, make a few folders to try and do some basic grouping.</description>
     </item>
@@ -91,8 +102,8 @@ The System   Bookmark things in chrome (or your browser of choice) as you find t
       <pubDate>Sun, 28 Jun 2009 00:00:00 +0000</pubDate>
       
       <guid>https://www.craigcitro.org/posts/2009-06-28-lockharts-lament/</guid>
-      <description>I recently stumbled upon a link to Lockhart&#39;s Lament.
-You should stop and read this right away, if you haven&#39;t already. It&#39;s a fairly harsh and biting attack on the state of math education (and more specifically K-12 math education) in the US. His main point is that the focus of the K-12 math curriculum has essentially nothing to do with the actual practice of mathematics, which is true. It&#39;s not perfect, but there&#39;s almost nothing I actually disagree with in it &amp;ndash; its only real sins are sins of omission.</description>
+      <description>I recently stumbled upon a link to Lockhart&amp;rsquo;s Lament.
+You should stop and read this right away, if you haven&amp;rsquo;t already. It&amp;rsquo;s a fairly harsh and biting attack on the state of math education (and more specifically K-12 math education) in the US. His main point is that the focus of the K-12 math curriculum has essentially nothing to do with the actual practice of mathematics, which is true. It&amp;rsquo;s not perfect, but there&amp;rsquo;s almost nothing I actually disagree with in it &amp;ndash; its only real sins are sins of omission.</description>
     </item>
     
     <item>
@@ -101,8 +112,8 @@ You should stop and read this right away, if you haven&#39;t already. It&#39;s a
       <pubDate>Fri, 05 Sep 2008 00:00:00 +0000</pubDate>
       
       <guid>https://www.craigcitro.org/posts/2008-09-05-eating-in-cambridge/</guid>
-      <description>Cambridge, MA has one of the best concentrations of great eateries of any place I&#39;ve ever lived; here&#39;s the list of my favorites, dated from the last time I sent it along to someone. (I know at least Herrell&#39;s is gone, which is a crime against humanity.)
-  Darwin&#39;s: my favorite place in Cambridge. There are two of them in Cambridge, one on Mt. Auburn, one on Cambridge St. The one on Cambridge St.</description>
+      <description>Cambridge, MA has one of the best concentrations of great eateries of any place I&amp;rsquo;ve ever lived; here&amp;rsquo;s the list of my favorites, dated from the last time I sent it along to someone. (I know at least Herrell&amp;rsquo;s is gone, which is a crime against humanity.)
+  Darwin&amp;rsquo;s: my favorite place in Cambridge. There are two of them in Cambridge, one on Mt. Auburn, one on Cambridge St. The one on Cambridge St.</description>
     </item>
     
   </channel>
