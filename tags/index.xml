@@ -7,10 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Craig Citro</copyright>
-    <lastBuildDate>Fri, 05 Aug 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.craigcitro.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.craigcitro.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>food</title>
+      <link>https://www.craigcitro.org/tags/food/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.craigcitro.org/tags/food/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>google</title>
@@ -27,15 +32,6 @@
       <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>https://www.craigcitro.org/tags/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>food</title>
-      <link>https://www.craigcitro.org/tags/food/</link>
-      <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.craigcitro.org/tags/food/</guid>
       <description></description>
     </item>
     
