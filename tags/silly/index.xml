@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>silly on Craig Citro</title>
+    <title>Silly on Craig Citro</title>
     <link>https://www.craigcitro.org/tags/silly/</link>
-    <description>Recent content in silly on Craig Citro</description>
+    <description>Recent content in Silly on Craig Citro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Craig Citro</copyright>
-    <lastBuildDate>Fri, 04 Dec 2009 00:00:00 +0000</lastBuildDate><atom:link href="https://www.craigcitro.org/tags/silly/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Dec 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.craigcitro.org/tags/silly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Math Jokes</title>
       <link>https://www.craigcitro.org/posts/2009-12-04-math-jokes/</link>

@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>math on Craig Citro</title>
+    <title>Math on Craig Citro</title>
     <link>https://www.craigcitro.org/tags/math/</link>
-    <description>Recent content in math on Craig Citro</description>
+    <description>Recent content in Math on Craig Citro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Craig Citro</copyright>
-    <lastBuildDate>Fri, 05 Aug 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://www.craigcitro.org/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Aug 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.craigcitro.org/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Get that job at Google! (mathematician edition)</title>
       <link>https://www.craigcitro.org/posts/2016-08-05-software-jobs/</link>
@@ -16,8 +20,9 @@
       <guid>https://www.craigcitro.org/posts/2016-08-05-software-jobs/</guid>
       <description>People often ask me for advice about how to get a job at Google, especially research mathematicians. This post is basically the common parts from my emails on the topic, for better discoverability.
 This often breaks down into one of two questions:
-  Would I be happy working as a software engineer at (a place like) Google?
-  What should I do to get ready for the interview?</description>
+ Would I be happy working as a software engineer at (a place like) Google?
+ What should I do to get ready for the interview?
+  Some of this was from a discussion with William Stein, who used it in a nice and related blog post.</description>
     </item>
     
     <item>

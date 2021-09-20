@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Craig Citro</title>
@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Craig Citro</copyright>
-    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.craigcitro.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.craigcitro.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Orcas recs</title>
       <link>https://www.craigcitro.org/posts/2021-07-02-eating-on-orcas/</link>
@@ -24,8 +28,8 @@
       
       <guid>https://www.craigcitro.org/books/</guid>
       <description>explanation of ratings
-2021 Shape, by Jordan Ellenberg. 3/5 When I used to teach, I&amp;rsquo;d occasionally end up giving an overview lecture, where I&amp;rsquo;d tie together all the previous topics we&amp;rsquo;d talked about, giving what (to me) felt like a spectacular bird&amp;rsquo;s eye view.
-Reading this book, now I know how my students felt &amp;ndash; but not in a good way. There&amp;rsquo;s really good content here, and it&amp;rsquo;s well written, but it feels &amp;hellip; disconnected.</description>
+2021 Best Writing on Mathematics 2010, by Mircea Pitici (ed). 4&amp;frasl;5 I love this series; I&amp;rsquo;m now just starting at the beginning and catching up. There&amp;rsquo;s a lot to love in this one, but the standouts for me were &amp;ldquo;Knowing When to Stop&amp;rdquo; by Theodore Hill and &amp;ldquo;Circle Packing&amp;rdquo; by Philip Bowers. And, of course, the foreword is by Thurston, so is a gem.
+I am so, so glad Pitici compiles these volumes.</description>
     </item>
     
     <item>
@@ -36,8 +40,9 @@ Reading this book, now I know how my students felt &amp;ndash; but not in a good
       <guid>https://www.craigcitro.org/posts/2016-08-05-software-jobs/</guid>
       <description>People often ask me for advice about how to get a job at Google, especially research mathematicians. This post is basically the common parts from my emails on the topic, for better discoverability.
 This often breaks down into one of two questions:
-  Would I be happy working as a software engineer at (a place like) Google?
-  What should I do to get ready for the interview?</description>
+ Would I be happy working as a software engineer at (a place like) Google?
+ What should I do to get ready for the interview?
+  Some of this was from a discussion with William Stein, who used it in a nice and related blog post.</description>
     </item>
     
     <item>
@@ -47,7 +52,7 @@ This often breaks down into one of two questions:
       
       <guid>https://www.craigcitro.org/posts/2016-06-14-eating-in-la/</guid>
       <description>It&amp;rsquo;s been forever since I lived in LA, but I still long for some of the food. One of my friends asked for some food recs, so I&amp;rsquo;m recording them here:
-Amazing eats   Amandine: go and get the french toast, and then get anything else that sounds good. It&amp;rsquo;s my absolute favorite french toast in the known universe, which is a strong compliment. Every pastry I had was good; I remember the coffee being good, but that was before I lived in Seattle, so that&amp;rsquo;s harder to say.</description>
+Amazing eats  Amandine: go and get the french toast, and then get anything else that sounds good. It&amp;rsquo;s my absolute favorite french toast in the known universe, which is a strong compliment. Every pastry I had was good; I remember the coffee being good, but that was before I lived in Seattle, so that&amp;rsquo;s harder to say.</description>
     </item>
     
     <item>
@@ -78,8 +83,8 @@ More to come &amp;ndash; but if there&amp;rsquo;s anything you&amp;rsquo;ve aske
       <guid>https://www.craigcitro.org/posts/2014-12-22-managing-bookmarks/</guid>
       <description>Like everyone, I often run into interesting content that I don&amp;rsquo;t have time to read then and there. Bookmarks to the rescue!
 But then I end up with a mountain of bookmarks. After years of experimenting, I&amp;rsquo;ve finally come up with an effective system.
-The System   Bookmark things in chrome (or your browser of choice) as you find them.
-  Roughly once a month, make a few folders to try and do some basic grouping.</description>
+The System  Bookmark things in chrome (or your browser of choice) as you find them.
+ Roughly once a month, make a few folders to try and do some basic grouping.</description>
     </item>
     
     <item>
@@ -118,7 +123,7 @@ You should stop and read this right away, if you haven&amp;rsquo;t already. It&a
       
       <guid>https://www.craigcitro.org/posts/2008-09-05-eating-in-cambridge/</guid>
       <description>Cambridge, MA has one of the best concentrations of great eateries of any place I&amp;rsquo;ve ever lived; here&amp;rsquo;s the list of my favorites, dated from the last time I sent it along to someone. (I know at least Herrell&amp;rsquo;s is gone, which is a crime against humanity.)
-  Darwin&amp;rsquo;s: my favorite place in Cambridge. There are two of them in Cambridge, one on Mt. Auburn, one on Cambridge St. The one on Cambridge St.</description>
+ Darwin&amp;rsquo;s: my favorite place in Cambridge. There are two of them in Cambridge, one on Mt. Auburn, one on Cambridge St. The one on Cambridge St.</description>
     </item>
     
   </channel>

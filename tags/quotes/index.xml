@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>quotes on Craig Citro</title>
+    <title>Quotes on Craig Citro</title>
     <link>https://www.craigcitro.org/tags/quotes/</link>
-    <description>Recent content in quotes on Craig Citro</description>
+    <description>Recent content in Quotes on Craig Citro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Craig Citro</copyright>
-    <lastBuildDate>Wed, 18 Nov 2009 00:00:00 +0000</lastBuildDate><atom:link href="https://www.craigcitro.org/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Nov 2009 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.craigcitro.org/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Great quote</title>
       <link>https://www.craigcitro.org/posts/2009-11-18-great-quote/</link>

@@ -1,13 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GTD on Craig Citro</title>
+    <title>Gtd on Craig Citro</title>
     <link>https://www.craigcitro.org/tags/gtd/</link>
-    <description>Recent content in GTD on Craig Citro</description>
+    <description>Recent content in Gtd on Craig Citro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020 Craig Citro</copyright>
-    <lastBuildDate>Mon, 22 Dec 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://www.craigcitro.org/tags/gtd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Dec 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.craigcitro.org/tags/gtd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Managing Bookmarks</title>
       <link>https://www.craigcitro.org/posts/2014-12-22-managing-bookmarks/</link>
@@ -16,8 +20,8 @@
       <guid>https://www.craigcitro.org/posts/2014-12-22-managing-bookmarks/</guid>
       <description>Like everyone, I often run into interesting content that I don&amp;rsquo;t have time to read then and there. Bookmarks to the rescue!
 But then I end up with a mountain of bookmarks. After years of experimenting, I&amp;rsquo;ve finally come up with an effective system.
-The System   Bookmark things in chrome (or your browser of choice) as you find them.
-  Roughly once a month, make a few folders to try and do some basic grouping.</description>
+The System  Bookmark things in chrome (or your browser of choice) as you find them.
+ Roughly once a month, make a few folders to try and do some basic grouping.</description>
     </item>
     
   </channel>
